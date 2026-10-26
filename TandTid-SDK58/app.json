@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "TandTid",
+    "slug": "tandtid",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "dk.student.tandtid"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "TandTid",
+      "lang": "da",
+      "description": "Find din næste tandlægetid. Søg, gem favoritter og book en fiktiv tid i TandTid."
+    },
+    "plugins": ["expo-font", "expo-status-bar"]
+  }
+}
