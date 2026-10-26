@@ -130,10 +130,8 @@ Demotider oprettes kun første gang. En tom, gemt liste bliver ikke fyldt op ige
 Dette er en prototype med én demopatient og en fælles oversigt for alle demoklinikker. Rollevalget er ikke et login. Der er ingen rigtig booking, betaling, server, personkonti, synkronisering eller reservation mellem flere brugere. Ændringer på samme enhed er gemt lokalt, og browserdata kan slettes af browseren.
 
 ## Video
+https://www.youtube.com/shorts/jN8_q5vSukY
 
-[Demovideo af første iteration](https://youtube.com/shorts/lZP2TvxASzY?si=-D0hajI7AUzy4Xkf).
-
-Der er endnu ikke optaget en video af denne iteration. Optag det nye testforløb ovenfor, upload videoen, og indsæt det nye link inden aflevering. Det gamle link viser ikke de nye funktioner.
 
 ## Teknisk dokumentation
 
